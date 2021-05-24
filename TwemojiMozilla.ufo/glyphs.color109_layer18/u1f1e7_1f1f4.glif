@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="u1f1e7_1f1f4" format="2">
+  <advance width="512"/>
+  <outline>
+    <contour>
+      <point x="272" y="256" type="qcurve"/>
+      <point x="273" y="257"/>
+      <point x="279" y="252"/>
+      <point x="285" y="243"/>
+      <point x="285" y="239" type="qcurve"/>
+      <point x="285" y="232"/>
+      <point x="274" y="213"/>
+      <point x="269" y="211" type="qcurve"/>
+      <point x="256" y="207" type="line"/>
+      <point x="250" y="208"/>
+      <point x="243" y="211" type="qcurve"/>
+      <point x="238" y="213"/>
+      <point x="227" y="232"/>
+      <point x="227" y="239" type="qcurve"/>
+      <point x="227" y="243"/>
+      <point x="233" y="252"/>
+      <point x="239" y="257"/>
+      <point x="240" y="256" type="qcurve"/>
+      <point x="241" y="256"/>
+      <point x="239" y="250"/>
+      <point x="237" y="240"/>
+      <point x="238" y="235" type="qcurve"/>
+      <point x="238" y="231"/>
+      <point x="247" y="222"/>
+      <point x="252" y="219" type="qcurve"/>
+      <point x="256" y="217" type="line"/>
+      <point x="273" y="225"/>
+      <point x="274" y="235" type="qcurve"/>
+      <point x="275" y="240"/>
+      <point x="273" y="250"/>
+      <point x="271" y="256"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>f3c5fa16e5ad16402e391df73a2125f11a5e00d7a2b95080aed69756f60994bcf59804031fcd2d04f5631c9e53e07275defbf2702ae204b11b4130dd49a38478</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

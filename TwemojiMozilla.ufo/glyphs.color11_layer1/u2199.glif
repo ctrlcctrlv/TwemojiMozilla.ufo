@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="u2199" format="2">
+  <advance width="512"/>
+  <outline>
+    <contour>
+      <point x="128" y="292" type="line"/>
+      <point x="356" y="64" type="line"/>
+      <point x="128" y="64" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w512l128+292l356+64l128+64|</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

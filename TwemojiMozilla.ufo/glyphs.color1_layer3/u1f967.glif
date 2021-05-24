@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="u1f967" format="2">
+  <advance width="512"/>
+  <outline>
+    <contour>
+      <point x="116" y="100"/>
+      <point x="116" y="70"/>
+      <point x="95" y="48"/>
+      <point x="65" y="48"/>
+      <point x="43" y="70"/>
+      <point x="43" y="100"/>
+      <point x="65" y="121"/>
+      <point x="95" y="121"/>
+    </contour>
+    <contour>
+      <point x="188" y="142" type="qcurve"/>
+      <point x="188" y="127"/>
+      <point x="166" y="105"/>
+      <point x="136" y="105"/>
+      <point x="114" y="127"/>
+      <point x="114" y="157"/>
+      <point x="136" y="178"/>
+      <point x="151" y="178" type="qcurve"/>
+      <point x="161" y="178"/>
+      <point x="178" y="169"/>
+      <point x="188" y="152"/>
+    </contour>
+    <contour>
+      <point x="273" y="143"/>
+      <point x="273" y="112"/>
+      <point x="251" y="91"/>
+      <point x="221" y="91"/>
+      <point x="200" y="112"/>
+      <point x="200" y="143"/>
+      <point x="221" y="164"/>
+      <point x="251" y="164"/>
+    </contour>
+    <contour>
+      <point x="344" y="200"/>
+      <point x="344" y="169"/>
+      <point x="323" y="148"/>
+      <point x="307" y="148" type="qcurve"/>
+      <point x="300" y="148"/>
+      <point x="286" y="154"/>
+      <point x="277" y="163"/>
+      <point x="271" y="177"/>
+      <point x="271" y="184" type="qcurve"/>
+      <point x="271" y="200"/>
+      <point x="292" y="221"/>
+      <point x="323" y="221"/>
+    </contour>
+    <contour>
+      <point x="429" y="180"/>
+      <point x="429" y="160"/>
+      <point x="420" y="143"/>
+      <point x="403" y="134"/>
+      <point x="393" y="134" type="qcurve"/>
+      <point x="378" y="134"/>
+      <point x="356" y="155"/>
+      <point x="356" y="185"/>
+      <point x="378" y="207"/>
+      <point x="393" y="207" type="qcurve"/>
+      <point x="403" y="207"/>
+      <point x="420" y="197"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>6281784e57d44231188b4df797ad4223506077f5f9a0cccf4c3307c4e01cd0c53b8aea0835ea9e82a84a5de86167ea6a713532bca53bcd10b88c1dae07dd0435</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

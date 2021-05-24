@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>u1f1e6_1f1f8</key>
+    <string>u1f1e6_1f1f8.glif</string>
+    <key>u1f1eb_1f1ef</key>
+    <string>u1f1eb_1f1ef.glif</string>
+    <key>u1f1ec_1f1ee</key>
+    <string>u1f1ec_1f1ee.glif</string>
+    <key>u1f1ec_1f1f6</key>
+    <string>u1f1ec_1f1f6.glif</string>
+    <key>u1f468_1f3ff_200d_1f3a4</key>
+    <string>u1f468_1f3ff_200d_1f3a4.glif</string>
+    <key>u1f469_1f3ff_200d_1f91d_200d_1f468_1f3fb</key>
+    <string>u1f469_1f3ff_200d_1f91d_200d_1f468_1f3fb.glif</string>
+    <key>u1f469_1f3ff_200d_1f91d_200d_1f468_1f3fc</key>
+    <string>u1f469_1f3ff_200d_1f91d_200d_1f468_1f3fc.glif</string>
+    <key>u1f469_1f3ff_200d_1f91d_200d_1f468_1f3fd</key>
+    <string>u1f469_1f3ff_200d_1f91d_200d_1f468_1f3fd.glif</string>
+    <key>u1f469_1f3ff_200d_1f91d_200d_1f468_1f3fe</key>
+    <string>u1f469_1f3ff_200d_1f91d_200d_1f468_1f3fe.glif</string>
+    <key>u1f469_1f3ff_200d_1f91d_200d_1f469_1f3fb</key>
+    <string>u1f469_1f3ff_200d_1f91d_200d_1f469_1f3fb.glif</string>
+    <key>u1f469_1f3ff_200d_1f91d_200d_1f469_1f3fc</key>
+    <string>u1f469_1f3ff_200d_1f91d_200d_1f469_1f3fc.glif</string>
+    <key>u1f469_1f3ff_200d_1f91d_200d_1f469_1f3fd</key>
+    <string>u1f469_1f3ff_200d_1f91d_200d_1f469_1f3fd.glif</string>
+    <key>u1f469_1f3ff_200d_1f91d_200d_1f469_1f3fe</key>
+    <string>u1f469_1f3ff_200d_1f91d_200d_1f469_1f3fe.glif</string>
+    <key>u1f469_1f3ff_200d_2695_fe0f</key>
+    <string>u1f469_1f3ff_200d_2695_fe0f.glif</string>
+    <key>u1f46b_1f3ff</key>
+    <string>u1f46b_1f3ff.glif</string>
+    <key>u1f46d_1f3ff</key>
+    <string>u1f46d_1f3ff.glif</string>
+    <key>u1f935_1f3ff</key>
+    <string>u1f935_1f3ff.glif</string>
+  </dict>
+</plist>

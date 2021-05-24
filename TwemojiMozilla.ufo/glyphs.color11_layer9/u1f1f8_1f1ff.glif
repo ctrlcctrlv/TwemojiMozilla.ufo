@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="u1f1f8_1f1ff" format="2">
+  <advance width="512"/>
+  <outline>
+    <contour>
+      <point x="177" y="220" type="line"/>
+      <point x="184" y="220" type="line"/>
+      <point x="184" y="199" type="line"/>
+      <point x="177" y="199" type="line"/>
+    </contour>
+    <contour>
+      <point x="177" y="185" type="line"/>
+      <point x="184" y="185" type="line"/>
+      <point x="184" y="164" type="line"/>
+      <point x="177" y="164" type="line"/>
+    </contour>
+    <contour>
+      <point x="190" y="220" type="line"/>
+      <point x="196" y="220" type="line"/>
+      <point x="196" y="199" type="line"/>
+      <point x="190" y="199" type="line"/>
+    </contour>
+    <contour>
+      <point x="190" y="185" type="line"/>
+      <point x="196" y="185" type="line"/>
+      <point x="196" y="164" type="line"/>
+      <point x="190" y="164" type="line"/>
+    </contour>
+    <contour>
+      <point x="202" y="220" type="line"/>
+      <point x="208" y="220" type="line"/>
+      <point x="208" y="199" type="line"/>
+      <point x="202" y="199" type="line"/>
+    </contour>
+    <contour>
+      <point x="202" y="185" type="line"/>
+      <point x="208" y="185" type="line"/>
+      <point x="208" y="164" type="line"/>
+      <point x="202" y="164" type="line"/>
+    </contour>
+    <contour>
+      <point x="214" y="220" type="line"/>
+      <point x="220" y="220" type="line"/>
+      <point x="220" y="199" type="line"/>
+      <point x="214" y="199" type="line"/>
+    </contour>
+    <contour>
+      <point x="214" y="185" type="line"/>
+      <point x="220" y="185" type="line"/>
+      <point x="220" y="164" type="line"/>
+      <point x="214" y="164" type="line"/>
+    </contour>
+    <contour>
+      <point x="226" y="220" type="line"/>
+      <point x="232" y="220" type="line"/>
+      <point x="232" y="199" type="line"/>
+      <point x="226" y="199" type="line"/>
+    </contour>
+    <contour>
+      <point x="226" y="185" type="line"/>
+      <point x="232" y="185" type="line"/>
+      <point x="232" y="164" type="line"/>
+      <point x="226" y="164" type="line"/>
+    </contour>
+    <contour>
+      <point x="238" y="220" type="line"/>
+      <point x="244" y="220" type="line"/>
+      <point x="244" y="199" type="line"/>
+      <point x="238" y="199" type="line"/>
+    </contour>
+    <contour>
+      <point x="238" y="185" type="line"/>
+      <point x="244" y="185" type="line"/>
+      <point x="244" y="164" type="line"/>
+      <point x="238" y="164" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>da4cf8492c1848e4408dd3fcff3d13a5b4712673907c4d377aa8529284e2b9a02970e44aba4a23af4aad6f34386b6d3ee0bd3a681c8ee1f43c91fc78863daeaf</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

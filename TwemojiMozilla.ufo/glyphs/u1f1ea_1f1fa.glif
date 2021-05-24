@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="u1f1ea_1f1fa" format="2">
+  <advance width="512"/>
+  <outline>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.github.googlei18n.ufo2ft.colorLayerMapping</key>
+      <array>
+        <array>
+          <string>color233_layer0</string>
+          <integer>233</integer>
+        </array>
+        <array>
+          <string>color234_layer1</string>
+          <integer>234</integer>
+        </array>
+      </array>
+    </dict>
+  </lib>
+</glyph>

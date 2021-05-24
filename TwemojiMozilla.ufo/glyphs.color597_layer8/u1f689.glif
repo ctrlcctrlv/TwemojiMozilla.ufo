@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="u1f689" format="2">
+  <advance width="512"/>
+  <outline>
+    <contour>
+      <point x="299" y="220" type="line"/>
+      <point x="299" y="197"/>
+      <point x="265" y="164"/>
+      <point x="242" y="164" type="qcurve"/>
+      <point x="156" y="164" type="line"/>
+      <point x="133" y="164"/>
+      <point x="100" y="197"/>
+      <point x="100" y="220" type="qcurve"/>
+      <point x="100" y="292" type="line"/>
+      <point x="100" y="334"/>
+      <point x="156" y="334" type="qcurve"/>
+      <point x="242" y="334" type="line"/>
+      <point x="299" y="334"/>
+      <point x="299" y="292" type="qcurve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w512l299+220o299+197o265+164q242+164l156+164o133+164o100+197q100+220l100+292o100+334q156+334l242+334o299+334q299+292|</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

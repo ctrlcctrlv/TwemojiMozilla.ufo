@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="u1f981" format="2">
+  <advance width="512"/>
+  <outline>
+    <contour>
+      <point x="303" y="70"/>
+      <point x="303" y="31"/>
+      <point x="275" y="4"/>
+      <point x="237" y="4"/>
+      <point x="209" y="31"/>
+      <point x="209" y="70"/>
+      <point x="237" y="98"/>
+      <point x="275" y="98"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w512o303+70o303+31o275+4o237+4o209+31o209+70o237+98o275+98|</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name=".notdef" format="2">
+  <advance width="512"/>
+  <outline>
+    <contour>
+      <point x="17" y="0" type="line"/>
+      <point x="17" y="341" type="line"/>
+      <point x="153" y="341" type="line"/>
+      <point x="153" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="34" y="17" type="line"/>
+      <point x="136" y="17" type="line"/>
+      <point x="136" y="324" type="line"/>
+      <point x="34" y="324" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+PUSHB[ ]	/* 2 values pushed */
+1 0
+MDAP[1]	/* MoveDirectAbsPt */
+ALIGNRP[ ]	/* AlignRelativePt */
+PUSHB[ ]	/* 3 values pushed */
+7 4 0
+MIRP[01101]	/* MoveIndirectRelPt */
+SHP[0]	/* ShiftPointByLastPoint */
+PUSHB[ ]	/* 2 values pushed */
+6 5
+MDRP[11100]	/* MoveDirectRelPt */
+ALIGNRP[ ]	/* AlignRelativePt */
+PUSHB[ ]	/* 3 values pushed */
+3 2 0
+MIRP[01101]	/* MoveIndirectRelPt */
+SHP[0]	/* ShiftPointByLastPoint */
+SVTCA[0]	/* SetFPVectorToAxis */
+PUSHB[ ]	/* 2 values pushed */
+3 0
+MDAP[1]	/* MoveDirectAbsPt */
+ALIGNRP[ ]	/* AlignRelativePt */
+PUSHB[ ]	/* 3 values pushed */
+5 4 0
+MIRP[01101]	/* MoveIndirectRelPt */
+SHP[0]	/* ShiftPointByLastPoint */
+PUSHB[ ]	/* 3 values pushed */
+7 6 1
+MIRP[11100]	/* MoveIndirectRelPt */
+ALIGNRP[ ]	/* AlignRelativePt */
+PUSHB[ ]	/* 3 values pushed */
+1 2 0
+MIRP[01101]	/* MoveIndirectRelPt */
+SHP[0]	/* ShiftPointByLastPoint */
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w512l17+0l17+341l153+341l153+0|l34+17l136+17l136+324l34+324|</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

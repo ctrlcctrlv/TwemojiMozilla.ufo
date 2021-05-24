@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>u1f648</key>
+    <string>u1f648.glif</string>
+    <key>u1f64a</key>
+    <string>u1f64a.glif</string>
+    <key>u1f6f7</key>
+    <string>u1f6f7.glif</string>
+    <key>u1f937_1f3fb_200d_2642_fe0f</key>
+    <string>u1f937_1f3fb_200d_2642_fe0f.glif</string>
+    <key>u1f937_1f3fc_200d_2642_fe0f</key>
+    <string>u1f937_1f3fc_200d_2642_fe0f.glif</string>
+    <key>u1f937_1f3fd_200d_2642_fe0f</key>
+    <string>u1f937_1f3fd_200d_2642_fe0f.glif</string>
+    <key>u1f937_200d_2642_fe0f</key>
+    <string>u1f937_200d_2642_fe0f.glif</string>
+  </dict>
+</plist>

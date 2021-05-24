@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="u1f574_1f3fd_200d_2640_fe0f" format="2">
+  <advance width="512"/>
+  <outline>
+    <contour>
+      <point x="194" y="351" type="qcurve"/>
+      <point x="190" y="351" type="line"/>
+      <point x="189" y="354"/>
+      <point x="189" y="372" type="qcurve"/>
+      <point x="189" y="397"/>
+      <point x="213" y="432"/>
+      <point x="242" y="446"/>
+      <point x="256" y="446" type="qcurve"/>
+      <point x="279" y="446"/>
+      <point x="322" y="408"/>
+      <point x="322" y="372" type="qcurve"/>
+      <point x="322" y="357"/>
+      <point x="322" y="351" type="qcurve"/>
+      <point x="318" y="351" type="line"/>
+      <point x="318" y="354"/>
+      <point x="318" y="355" type="qcurve"/>
+      <point x="318" y="362"/>
+      <point x="314" y="365"/>
+      <point x="309" y="361"/>
+      <point x="305" y="362"/>
+      <point x="305" y="367" type="qcurve"/>
+      <point x="305" y="379"/>
+      <point x="286" y="392"/>
+      <point x="272" y="392" type="qcurve"/>
+      <point x="265" y="392"/>
+      <point x="246" y="398"/>
+      <point x="241" y="402" type="qcurve"/>
+      <point x="235" y="405" type="line"/>
+      <point x="223" y="392" type="line"/>
+      <point x="221" y="390"/>
+      <point x="213" y="384"/>
+      <point x="209" y="380"/>
+      <point x="206" y="373"/>
+      <point x="206" y="367" type="qcurve"/>
+      <point x="206" y="363"/>
+      <point x="202" y="362"/>
+      <point x="198" y="365"/>
+      <point x="194" y="362"/>
+      <point x="194" y="355" type="qcurve"/>
+      <point x="194" y="354"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>c747aa82384b5100826a0ad7a8043c23d827b809315f4f3b51a60d4a05e403e208e2bf7bb6f69d7bade40e86d9b54c7fae3ee3ad06027dc9c3e5ab8aa06c9c8a</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

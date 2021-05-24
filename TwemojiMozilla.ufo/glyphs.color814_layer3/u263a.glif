@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="u263a" format="2">
+  <advance width="512"/>
+  <outline>
+    <contour>
+      <point x="273" y="28"/>
+      <point x="239" y="28"/>
+      <point x="210" y="42"/>
+      <point x="194" y="58"/>
+      <point x="182" y="79"/>
+      <point x="179" y="88"/>
+      <point x="178" y="91" type="qcurve"/>
+      <point x="177" y="96"/>
+      <point x="186" y="101"/>
+      <point x="190" y="98" type="qcurve"/>
+      <point x="204" y="85"/>
+      <point x="256" y="85" type="qcurve"/>
+      <point x="307" y="85"/>
+      <point x="322" y="98" type="qcurve"/>
+      <point x="326" y="101"/>
+      <point x="335" y="96"/>
+      <point x="334" y="91" type="qcurve"/>
+      <point x="333" y="88"/>
+      <point x="330" y="79"/>
+      <point x="318" y="58"/>
+      <point x="302" y="42"/>
+    </contour>
+    <contour>
+      <point x="198" y="78" type="qcurve"/>
+      <point x="218" y="43"/>
+      <point x="294" y="43"/>
+      <point x="314" y="78" type="qcurve"/>
+      <point x="291" y="71"/>
+      <point x="221" y="71"/>
+    </contour>
+    <contour>
+      <point x="185" y="92" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>f952f96fdf009050ea8146219f51bad426f3499b9bbccad01d73e2563671ada85bd24ecf38826139694a75db809d4aab7c67bd6ab04fc582d3ae69fb35614dd6</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="u1f63b" format="2">
+  <advance width="512"/>
+  <outline>
+    <contour>
+      <point x="231" y="375" type="qcurve"/>
+      <point x="233" y="368"/>
+      <point x="234" y="360" type="qcurve"/>
+      <point x="241" y="320"/>
+      <point x="197" y="219"/>
+      <point x="167" y="194" type="qcurve"/>
+      <point x="128" y="195"/>
+      <point x="30" y="245"/>
+      <point x="11" y="282" type="qcurve"/>
+      <point x="6" y="288"/>
+      <point x="4" y="295" type="qcurve"/>
+      <point x="-1" y="308"/>
+      <point x="1" y="334"/>
+      <point x="12" y="357"/>
+      <point x="32" y="375"/>
+      <point x="44" y="380" type="qcurve"/>
+      <point x="76" y="391"/>
+      <point x="104" y="372" type="qcurve"/>
+      <point x="114" y="404"/>
+      <point x="146" y="416" type="qcurve"/>
+      <point x="164" y="421"/>
+      <point x="197" y="415"/>
+      <point x="225" y="392"/>
+    </contour>
+    <contour>
+      <point x="281" y="375" type="qcurve"/>
+      <point x="287" y="392"/>
+      <point x="315" y="415"/>
+      <point x="348" y="421"/>
+      <point x="366" y="416" type="qcurve"/>
+      <point x="398" y="404"/>
+      <point x="408" y="372" type="qcurve"/>
+      <point x="436" y="391"/>
+      <point x="468" y="380" type="qcurve"/>
+      <point x="494" y="371"/>
+      <point x="517" y="321"/>
+      <point x="508" y="295" type="qcurve"/>
+      <point x="506" y="288"/>
+      <point x="501" y="282" type="qcurve"/>
+      <point x="488" y="257"/>
+      <point x="431" y="216"/>
+      <point x="370" y="195"/>
+      <point x="345" y="194" type="qcurve"/>
+      <point x="326" y="210"/>
+      <point x="292" y="266"/>
+      <point x="273" y="333"/>
+      <point x="278" y="360" type="qcurve"/>
+      <point x="279" y="368"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>3e17c5171c86223d3c264a53bff21441fd4778fc85c8ff6c5d47dc1a5d2c3b7b7ccefd3bc997e5f3b017adf98feff2f38e7c275feeea3c2bae41c899365da90b</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

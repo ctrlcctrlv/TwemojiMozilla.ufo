@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="u1f973" format="2">
+  <advance width="512"/>
+  <outline>
+    <contour>
+      <point x="228" y="78" type="qcurve"/>
+      <point x="228" y="88"/>
+      <point x="235" y="104"/>
+      <point x="248" y="114"/>
+      <point x="256" y="114" type="qcurve"/>
+      <point x="268" y="114"/>
+      <point x="284" y="93"/>
+      <point x="284" y="63"/>
+      <point x="268" y="43"/>
+      <point x="256" y="43" type="qcurve"/>
+      <point x="250" y="43"/>
+      <point x="240" y="48"/>
+      <point x="232" y="58"/>
+      <point x="228" y="71"/>
+    </contour>
+    <contour>
+      <point x="115" y="144" type="qcurve"/>
+      <point x="111" y="144"/>
+      <point x="108" y="146" type="qcurve"/>
+      <point x="96" y="154"/>
+      <point x="103" y="166" type="qcurve"/>
+      <point x="117" y="187"/>
+      <point x="175" y="217"/>
+      <point x="213" y="208" type="qcurve"/>
+      <point x="218" y="206"/>
+      <point x="225" y="196"/>
+      <point x="222" y="185"/>
+      <point x="212" y="179"/>
+      <point x="206" y="180" type="qcurve"/>
+      <point x="192" y="185"/>
+      <point x="165" y="179"/>
+      <point x="148" y="172"/>
+      <point x="133" y="158"/>
+      <point x="129" y="152"/>
+      <point x="127" y="151" type="qcurve"/>
+      <point x="123" y="144"/>
+    </contour>
+    <contour>
+      <point x="286" y="197" type="qcurve"/>
+      <point x="279" y="197"/>
+      <point x="275" y="202" type="qcurve"/>
+      <point x="266" y="213"/>
+      <point x="277" y="222" type="qcurve"/>
+      <point x="297" y="239"/>
+      <point x="347" y="248"/>
+      <point x="381" y="239"/>
+      <point x="393" y="232" type="qcurve"/>
+      <point x="405" y="224"/>
+      <point x="390" y="200"/>
+      <point x="378" y="207" type="qcurve"/>
+      <point x="373" y="211"/>
+      <point x="356" y="218"/>
+      <point x="313" y="215"/>
+      <point x="295" y="200" type="qcurve"/>
+      <point x="291" y="197"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>d35c84840be82bd039992f249c13ba8bd3f0b292124d1278532b8c5606f2bd917b750b91e569b0912ee19b6899d17a82f65baf772f5996db20a23c3042be2dd8</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

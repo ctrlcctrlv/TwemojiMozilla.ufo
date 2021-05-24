@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="u1f360" format="2">
+  <advance width="512"/>
+  <unicode hex="1F360"/>
+  <outline>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.github.googlei18n.ufo2ft.colorLayerMapping</key>
+      <array>
+        <array>
+          <string>color613_layer0</string>
+          <integer>613</integer>
+        </array>
+        <array>
+          <string>color194_layer1</string>
+          <integer>194</integer>
+        </array>
+        <array>
+          <string>color614_layer2</string>
+          <integer>614</integer>
+        </array>
+        <array>
+          <string>color613_layer3</string>
+          <integer>613</integer>
+        </array>
+        <array>
+          <string>color615_layer4</string>
+          <integer>615</integer>
+        </array>
+      </array>
+    </dict>
+  </lib>
+</glyph>

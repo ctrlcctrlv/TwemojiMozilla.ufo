@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="u1f469_1f3fb_200d_1f9bc" format="2">
+  <advance width="512"/>
+  <outline>
+    <contour>
+      <point x="368" y="409" type="qcurve"/>
+      <point x="357" y="413"/>
+      <point x="370" y="418" type="qcurve"/>
+      <point x="392" y="426"/>
+      <point x="405" y="410" type="qcurve"/>
+      <point x="408" y="406" type="line"/>
+      <point x="412" y="399"/>
+      <point x="409" y="385"/>
+      <point x="404" y="376"/>
+      <point x="395" y="362"/>
+      <point x="393" y="356" type="qcurve"/>
+      <point x="393" y="333" type="line"/>
+      <point x="377" y="337"/>
+      <point x="377" y="355" type="qcurve"/>
+      <point x="377" y="359"/>
+      <point x="384" y="387"/>
+      <point x="379" y="405"/>
+    </contour>
+    <contour>
+      <point x="228" y="149" type="line"/>
+      <point x="370" y="149" type="line"/>
+      <point x="377" y="149"/>
+      <point x="390" y="141"/>
+      <point x="398" y="128"/>
+      <point x="398" y="121" type="qcurve"/>
+      <point x="398" y="50" type="line"/>
+      <point x="398" y="43"/>
+      <point x="390" y="30"/>
+      <point x="377" y="21"/>
+      <point x="370" y="21" type="qcurve"/>
+      <point x="228" y="21" type="line"/>
+      <point x="217" y="21"/>
+      <point x="199" y="39"/>
+      <point x="199" y="50" type="qcurve"/>
+      <point x="199" y="92" type="line"/>
+      <point x="199" y="105"/>
+      <point x="213" y="119"/>
+      <point x="220" y="120" type="qcurve"/>
+      <point x="228" y="121" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>a497703e969ecb1130a44be6e6027c03eb0d513aadd5ae8acf749a6218ae9e7dfcf765e1ff330dfaae98d2c5df097fe7fe26a161121daa82f264e7f6a6b1966e</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

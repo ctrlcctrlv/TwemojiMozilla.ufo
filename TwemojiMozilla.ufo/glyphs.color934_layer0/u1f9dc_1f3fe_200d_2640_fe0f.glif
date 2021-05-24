@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="u1f9dc_1f3fe_200d_2640_fe0f" format="2">
+  <advance width="512"/>
+  <outline>
+    <contour>
+      <point x="295" y="289" type="qcurve"/>
+      <point x="283" y="297"/>
+      <point x="275" y="306" type="qcurve"/>
+      <point x="288" y="265"/>
+      <point x="281" y="226" type="qcurve"/>
+      <point x="278" y="211"/>
+      <point x="194" y="201"/>
+      <point x="106" y="206"/>
+      <point x="92" y="212" type="qcurve"/>
+      <point x="91" y="213"/>
+      <point x="82" y="217"/>
+      <point x="79" y="218"/>
+      <point x="73" y="222"/>
+      <point x="72" y="227"/>
+      <point x="70" y="234"/>
+      <point x="71" y="244"/>
+      <point x="72" y="250" type="qcurve"/>
+      <point x="75" y="262"/>
+      <point x="81" y="283"/>
+      <point x="84" y="294"/>
+      <point x="84" y="298" type="qcurve"/>
+      <point x="75" y="285"/>
+      <point x="58" y="272" type="qcurve"/>
+      <point x="69" y="288"/>
+      <point x="79" y="337" type="qcurve"/>
+      <point x="72" y="331"/>
+      <point x="65" y="327" type="qcurve"/>
+      <point x="68" y="330"/>
+      <point x="75" y="344"/>
+      <point x="80" y="358"/>
+      <point x="84" y="372"/>
+      <point x="85" y="376" type="qcurve"/>
+      <point x="86" y="381" type="line"/>
+      <point x="86" y="395"/>
+      <point x="100" y="419"/>
+      <point x="125" y="433"/>
+      <point x="139" y="433" type="qcurve"/>
+      <point x="142" y="433"/>
+      <point x="147" y="433" type="qcurve"/>
+      <point x="167" y="447"/>
+      <point x="192" y="447" type="qcurve"/>
+      <point x="208" y="447"/>
+      <point x="237" y="433"/>
+      <point x="257" y="410"/>
+      <point x="270" y="382"/>
+      <point x="271" y="367" type="qcurve"/>
+      <point x="281" y="309"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>c8de3acd20f60c8c84da6316acac2799a2252cb36bb0893552813226e99fc391cb2d9b58567bd12f9bc1414925394337e4e74e0bd55374f0b42c8cc3d5bfba45</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="u1f965" format="2">
+  <advance width="512"/>
+  <outline>
+    <contour>
+      <point x="310" y="29" type="line"/>
+      <point x="269" y="29"/>
+      <point x="249" y="9"/>
+      <point x="98" y="160" type="qcurve"/>
+      <point x="85" y="173"/>
+      <point x="70" y="259"/>
+      <point x="69" y="295" type="qcurve"/>
+      <point x="68" y="331" type="line"/>
+      <point x="88" y="311"/>
+      <point x="98" y="280" type="qcurve"/>
+      <point x="102" y="270"/>
+      <point x="110" y="259"/>
+      <point x="117" y="257"/>
+      <point x="126" y="253"/>
+      <point x="129" y="250" type="qcurve"/>
+      <point x="133" y="246"/>
+      <point x="138" y="220"/>
+      <point x="145" y="182"/>
+      <point x="149" y="170" type="qcurve"/>
+      <point x="154" y="155"/>
+      <point x="244" y="104"/>
+      <point x="249" y="89" type="qcurve"/>
+      <point x="253" y="77"/>
+      <point x="283" y="47"/>
+      <point x="297" y="38" type="qcurve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>1a0dbc3d75dd39110c7390f0526d7a1addf544f43c7807ad4088045ede469e099689a6d4956f3df4f30e89d073872f0cb0fcd4d33433d1d751091b89741c10af</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

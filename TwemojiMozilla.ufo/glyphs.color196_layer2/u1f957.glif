@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="u1f957" format="2">
+  <advance width="512"/>
+  <outline>
+    <contour>
+      <point x="39" y="180" type="qcurve"/>
+      <point x="5" y="228"/>
+      <point x="28" y="279" type="qcurve"/>
+      <point x="39" y="308"/>
+      <point x="56" y="315" type="qcurve"/>
+      <point x="61" y="318"/>
+      <point x="62" y="314" type="qcurve"/>
+      <point x="75" y="278"/>
+      <point x="101" y="280" type="qcurve"/>
+      <point x="100" y="309" type="line"/>
+      <point x="104" y="348"/>
+      <point x="124" y="360" type="qcurve"/>
+      <point x="147" y="372"/>
+      <point x="177" y="323" type="qcurve"/>
+      <point x="191" y="300"/>
+      <point x="250" y="289"/>
+      <point x="296" y="301"/>
+      <point x="311" y="309" type="qcurve"/>
+      <point x="312" y="310"/>
+      <point x="315" y="312" type="qcurve"/>
+      <point x="329" y="320"/>
+      <point x="341" y="329"/>
+      <point x="350" y="351"/>
+      <point x="347" y="367" type="qcurve"/>
+      <point x="346" y="373"/>
+      <point x="361" y="380"/>
+      <point x="370" y="375" type="qcurve"/>
+      <point x="388" y="366"/>
+      <point x="421" y="328"/>
+      <point x="425" y="308" type="qcurve"/>
+      <point x="446" y="302"/>
+      <point x="459" y="327" type="qcurve"/>
+      <point x="462" y="333"/>
+      <point x="478" y="334"/>
+      <point x="483" y="326" type="qcurve"/>
+      <point x="490" y="314"/>
+      <point x="500" y="277"/>
+      <point x="498" y="220"/>
+      <point x="487" y="197" type="qcurve"/>
+      <point x="464" y="152"/>
+      <point x="389" y="104"/>
+      <point x="318" y="95" type="qcurve"/>
+      <point x="234" y="85"/>
+      <point x="78" y="123"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>26b4827c6e586e074bf6784e1638f07ff292ac2d828d549f1fcde49174776368a1668d1709d3eea4023413bedccae0d36d89cd44d0881eaf1b942a407e4f8c41</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
